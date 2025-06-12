@@ -1,4 +1,5 @@
 # medicalddpm
+#condalist
 # Name                    Version                   Build  Channel
 absl-py                   2.2.2                    pypi_0    pypi
 alembic                   1.14.1                   pypi_0    pypi
